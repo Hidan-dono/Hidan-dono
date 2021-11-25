@@ -1,5 +1,7 @@
 ### Hi there 👋
+I'm a 2nd year french student student in bts (Baccalaureate +2)
 
+See my linkdIn here : [ok](https://www.linkedin.com/in/marcel-lhote-a83702203 "My Profile linkedIn").
 <!--
 **Hidan-dono/Hidan-dono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
