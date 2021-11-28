@@ -3,9 +3,8 @@
 ### Hi there 👋
 I'm a 2nd year french student student in BTS (Baccalaureate +2)
 
-<!--
-**Hidan-dono/Hidan-dono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
