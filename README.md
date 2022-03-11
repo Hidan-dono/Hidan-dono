@@ -1,6 +1,8 @@
 
-<a href="https://www.linkedin.com/in/marcel-lhote-a83702203"><img height="30" src="https://github.com/LhoMars/LhoMars/blob/main/assets/icon/linkedin.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/marcel-lhote-a83702203"><img height="30" src="https://github.com/LhoMars/LhoMars/blob/main/icon/linkedin.png?raw=true"></a>
+
 ### Hi there 👋
+
 I'm a french higher education students (post secondary technical schools)
 
 
