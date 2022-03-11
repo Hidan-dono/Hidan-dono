@@ -1,7 +1,7 @@
 
 <a href="https://www.linkedin.com/in/marcel-lhote-a83702203"><img height="30" src="https://github.com/LhoMars/LhoMars/blob/main/assets/icon/linkedin.png?raw=true"></a>
 ### Hi there 👋
-I'm a 2nd year french student student in BTS (Baccalaureate +2)
+I'm a french higher education students (post secondary technical schools)
 
 
 <!--
