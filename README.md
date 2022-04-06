@@ -1,6 +1,7 @@
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <a href="https://www.linkedin.com/in/marcel-lhote-a83702203"><img height="30" src="https://github.com/LhoMars/LhoMars/blob/main/icon/linkedin.png?raw=true"></a>
-
+<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="marcel-lhote" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/marcel-lhote?trk=profile-badge">Marcel Lhote</a></div>
+              
 ### Hi there 👋
 
 I'm a french higher education students (post secondary technical schools)
