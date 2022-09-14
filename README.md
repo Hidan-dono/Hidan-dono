@@ -2,8 +2,7 @@
              
 ### Hi there 👋
 
-I'm a french higher education students (post secondary technical schools)
-
+I'm a French engineering student
 
 <!--
 Here are some ideas to get you started:
