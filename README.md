@@ -2,7 +2,7 @@
              
 ### Hi there 👋
 
-I'm a French engineering student
+I'm a French stuent on a work-study basis in engineering school at ISIMA
 
 <!--
 Here are some ideas to get you started:
